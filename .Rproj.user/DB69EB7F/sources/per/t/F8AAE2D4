@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1698957902645.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F8AAE2D4",
+    "lastKnownWriteTime" : 2949956515784,
+    "last_content_update" : 1698957902645,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "678440EE",
+        "caption" : "mesa_3225",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=mesa_3225&cache_key=678440EE",
+        "displayedObservations" : "90",
+        "environment" : "",
+        "object" : "mesa_3225",
+        "preview" : "0",
+        "totalObservations" : "90",
+        "variables" : "5"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

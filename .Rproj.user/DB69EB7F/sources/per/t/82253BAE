@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1698959110721.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "82253BAE",
+    "lastKnownWriteTime" : 3180226764034286138,
+    "last_content_update" : 1698959110721,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "CA0241B6",
+        "caption" : "todo",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=todo&cache_key=CA0241B6",
+        "displayedObservations" : 4140,
+        "environment" : "",
+        "object" : "todo",
+        "preview" : 0,
+        "totalObservations" : 4140,
+        "variables" : 5
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

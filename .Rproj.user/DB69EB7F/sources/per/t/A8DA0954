@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1698941746648.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3107348677",
+    "id" : "A8DA0954",
+    "lastKnownWriteTime" : 1698960233,
+    "last_content_update" : 1698960233814,
+    "path" : "C:/Users/Manuel/Desktop/Nueva carpeta/codigo.R",
+    "project_path" : "codigo.R",
+    "properties" : {
+        "cursorPosition" : "42,25",
+        "scrollLine" : "19",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

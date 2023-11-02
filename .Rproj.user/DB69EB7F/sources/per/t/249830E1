@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1698958133481.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "249830E1",
+    "lastKnownWriteTime" : 2949956515784,
+    "last_content_update" : 1698958133481,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "A43C80A4",
+        "caption" : "mesa_3234",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=mesa_3234&cache_key=A43C80A4",
+        "displayedObservations" : 90,
+        "environment" : "",
+        "object" : "mesa_3234",
+        "preview" : 0,
+        "totalObservations" : 90,
+        "variables" : 5
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
